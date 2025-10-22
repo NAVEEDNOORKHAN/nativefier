@@ -1,4 +1,4 @@
-Note: Nativefier is unmaintained, please see https://github.com/nativefier/nativefier/issues/1577.
+Nativefier Reborn is HERE, You can check old Nativefier here https://github.com/nativefier/nativefier/issues/1577.
 
 # Nativefier
 
@@ -7,8 +7,12 @@ Note: Nativefier is unmaintained, please see https://github.com/nativefier/nativ
 You want to make a native-looking wrapper for WhatsApp Web (or any web page).
 
 ```bash
-nativefier 'web.whatsapp.com'
+nativefier "apps.cloudbox.pk"
 ```
+```bash
+nativefier "apps.cloudbox.pk" --electron-version 38.3.0
+```
+
 
 ![Walkthrough animation](.github/nativefier-walkthrough.gif)
 
